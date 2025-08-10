@@ -82,7 +82,3 @@ If no messages are deleted, check that your token is correct and you have permis
 
 License
 This script is provided as-is for educational use.
-
-If you want improvements or additional features, feel free to open an issue or ask!
-
-Would you like me to generate a markdown file for you to download?
